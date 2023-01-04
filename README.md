@@ -1,5 +1,5 @@
-![](images/devOps.png)
-# DevOps Managed Service
+![](images/devops.png)
+# DevOps
 
 #### THINK DevOps ! THINK Automation !
 
