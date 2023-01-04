@@ -7,7 +7,6 @@
 
 #### Repositories based on DevOps Applications:
 - [Artifactory](Artifactory)
-- [GitHub](GitHub)
 - [GitLab](GitLab)
 - [Perforce](Perforce)
 - [Monitoring](Monitoring) 
