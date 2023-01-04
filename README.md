@@ -1,4 +1,4 @@
-![](images/DevOps.JPG)
+![](images/devOps.png)
 # DevOps Managed Service
 
 #### THINK DevOps ! THINK Automation !
@@ -13,4 +13,7 @@
 - [Monitoring](Monitoring) 
  
 #### Useful scripts:
-- [Fetch_ADusers](Fetch_ADusers)    
+- [Fetch Active Directory Users](Fetch_ADusers) 
+
+## License
+[MIT LICENSE](LICENSE.md)  
